@@ -1,0 +1,4 @@
+D:\учеба\Decorator\Decorator\ConsoleApp1\UnitTest2\obj\Debug\netcoreapp3.1\UnitTest2.csprojAssemblyReference.cache
+D:\учеба\Decorator\Decorator\ConsoleApp1\UnitTest2\obj\Debug\netcoreapp3.1\UnitTest2.AssemblyInfoInputs.cache
+D:\учеба\Decorator\Decorator\ConsoleApp1\UnitTest2\obj\Debug\netcoreapp3.1\UnitTest2.AssemblyInfo.cs
+D:\учеба\Decorator\Decorator\ConsoleApp1\UnitTest2\obj\Debug\netcoreapp3.1\UnitTest2.csproj.CoreCompileInputs.cache

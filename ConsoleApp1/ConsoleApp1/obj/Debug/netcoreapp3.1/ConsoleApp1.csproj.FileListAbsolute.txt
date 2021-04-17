@@ -1,0 +1,16 @@
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\учеба\Decorator\Decorator\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
