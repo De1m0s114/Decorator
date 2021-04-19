@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var s= new FirstLesson(new ThirdLesson()) ;
+            var s= new ThirdLesson(new SecondLesson(new FirstLesson()));
             Console.ReadLine();
         }
     }
@@ -14,6 +14,7 @@ namespace ConsoleApp1
      public interface Study     
      {
      public abstract string GoLesson();
-     }
+ 
+    }
 
 }

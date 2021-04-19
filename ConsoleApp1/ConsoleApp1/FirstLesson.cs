@@ -4,10 +4,7 @@ namespace ConsoleApp1
     public class FirstLesson : Study
     {
        
-        public FirstLesson(Study study)
-        {
-             this.GoLesson();
-        }
+
         public FirstLesson()
         {
             this.GoLesson();
@@ -16,9 +13,10 @@ namespace ConsoleApp1
         {
 
             var s = "Go 1 lesson";
-            Console.WriteLine(s);
+            
             return s;
         }
+
     }
 
 }
